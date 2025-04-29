@@ -1,0 +1,163 @@
+[
+    {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "choice1": "<style>",
+        "choice2": "<script>",
+        "choice3": "<css>",
+        "choice4": "<link>",
+        "answer": 1
+    },
+    {
+        "question": "Which HTML element is used to define important text?",
+        "choice1": "<strong>",
+        "choice2": "<bold>",
+        "choice3": "<em>",
+        "choice4": "<mark>",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is the correct syntax to link an external CSS file?",
+        "choice1": "<link rel='stylesheet' href='style.css'>",
+        "choice2": "<style src='style.css'>",
+        "choice3": "<css href='style.css'>",
+        "choice4": "<script src='style.css'>",
+        "answer": 1
+    },
+    {
+        "question": "Which property is used to change the font of an element in CSS?",
+        "choice1": "font-family",
+        "choice2": "font-size",
+        "choice3": "font-style",
+        "choice4": "text-decoration",
+        "answer": 1
+    },
+    {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "choice1": "style",
+        "choice2": "css",
+        "choice3": "class",
+        "choice4": "id",
+        "answer": 1
+    },
+    {
+        "question": "Which tag is used to create a table row in HTML?",
+        "choice1": "<td>",
+        "choice2": "<th>",
+        "choice3": "<tr>",
+        "choice4": "<table>",
+        "answer": 3
+    },
+    {
+        "question": "Which CSS property is used to change the background color of an element?",
+        "choice1": "color",
+        "choice2": "background-color",
+        "choice3": "bg-color",
+        "choice4": "bg-color",
+        "answer": 2
+    },
+    {
+        "question": "Which property in CSS is used to set the space between the lines of text?",
+        "choice1": "letter-spacing",
+        "choice2": "line-height",
+        "choice3": "text-spacing",
+        "choice4": "word-spacing",
+        "answer": 2
+    },
+    {
+        "question": "Which HTML tag is used to define a hyperlink?",
+        "choice1": "<a>",
+        "choice2": "<link>",
+        "choice3": "<href>",
+        "choice4": "<hyperlink>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct HTML element for inserting an image?",
+        "choice1": "<image>",
+        "choice2": "<img>",
+        "choice3": "<src>",
+        "choice4": "<picture>",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is used to add a comment in JavaScript?",
+        "choice1": "// This is a comment",
+        "choice2": "# This is a comment",
+        "choice3": "/* This is a comment */",
+        "choice4": "<!-- This is a comment -->",
+        "answer": 1
+    },
+    {
+        "question": "Which property is used to change the text color in CSS?",
+        "choice1": "text-color",
+        "choice2": "color",
+        "choice3": "font-color",
+        "choice4": "background-color",
+        "answer": 2
+    },
+    {
+        "question": "Which method is used to add an element to the end of an array in JavaScript?",
+        "choice1": "array.push()",
+        "choice2": "array.add()",
+        "choice3": "array.append()",
+        "choice4": "array.insert()",
+        "answer": 1
+    },
+    {
+        "question": "What does the CSS 'position' property determine?",
+        "choice1": "The layout of the element",
+        "choice2": "The element's z-index",
+        "choice3": "The element's placement on the page",
+        "choice4": "The font of the element",
+        "answer": 3
+    },
+    {
+        "question": "Which CSS property is used to control the visibility of an element?",
+        "choice1": "visibility",
+        "choice2": "display",
+        "choice3": "opacity",
+        "choice4": "hidden",
+        "answer": 1
+    },
+    {
+        "question": "Which method is used to remove the last element from an array in JavaScript?",
+        "choice1": "array.pop()",
+        "choice2": "array.shift()",
+        "choice3": "array.remove()",
+        "choice4": "array.delete()",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following tags is used to define a drop-down list in HTML?",
+        "choice1": "<input>",
+        "choice2": "<select>",
+        "choice3": "<dropdown>",
+        "choice4": "<options>",
+        "answer": 2
+    },
+    {
+        "question": "What does the JavaScript 'alert()' function do?",
+        "choice1": "Displays a confirmation box",
+        "choice2": "Displays a dialog box with a message",
+        "choice3": "Executes a function",
+        "choice4": "Sets the value of a variable",
+        "answer": 2
+    },
+    {
+        "question": "Which tag is used to define a division or section in an HTML document?",
+        "choice1": "<section>",
+        "choice2": "<div>",
+        "choice3": "<article>",
+        "choice4": "<container>",
+        "answer": 2
+    },
+    {
+        "question": "Which property in CSS is used to make text bold?",
+        "choice1": "font-weight",
+        "choice2": "text-weight",
+        "choice3": "font-style",
+        "choice4": "bold",
+        "answer": 1
+    }
+]
+
